@@ -1,3 +1,5 @@
 n=input().split()
-for i in range(int(n[1])):
-    print(n[0]);
+a=n[0]
+b=int(n[1])
+for i in range(b)):
+    print(a);
